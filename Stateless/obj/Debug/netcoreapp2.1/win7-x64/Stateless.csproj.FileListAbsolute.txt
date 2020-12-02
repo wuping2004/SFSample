@@ -1,0 +1,26 @@
+D:\mycode\MyGit\Workspace\SFSample\Application\Stateless\obj\Debug\netcoreapp2.1\win7-x64\Stateless.csproj.CoreCompileInputs.cache
+D:\mycode\MyGit\Workspace\SFSample\Application\Stateless\obj\Debug\netcoreapp2.1\win7-x64\Stateless.AssemblyInfoInputs.cache
+D:\mycode\MyGit\Workspace\SFSample\Application\Stateless\obj\Debug\netcoreapp2.1\win7-x64\Stateless.AssemblyInfo.cs
+D:\mycode\MyGit\Workspace\SFSample\Application\Stateless\bin\Debug\netcoreapp2.1\win7-x64\hostpolicy.dll
+D:\mycode\MyGit\Workspace\SFSample\Application\Stateless\bin\Debug\netcoreapp2.1\win7-x64\hostfxr.dll
+D:\mycode\MyGit\Workspace\SFSample\Application\Stateless\bin\Debug\netcoreapp2.1\win7-x64\Stateless.exe
+D:\mycode\MyGit\Workspace\SFSample\Application\Stateless\bin\Debug\netcoreapp2.1\win7-x64\Stateless.deps.json
+D:\mycode\MyGit\Workspace\SFSample\Application\Stateless\bin\Debug\netcoreapp2.1\win7-x64\Stateless.runtimeconfig.json
+D:\mycode\MyGit\Workspace\SFSample\Application\Stateless\bin\Debug\netcoreapp2.1\win7-x64\Stateless.runtimeconfig.dev.json
+D:\mycode\MyGit\Workspace\SFSample\Application\Stateless\bin\Debug\netcoreapp2.1\win7-x64\Stateless.dll
+D:\mycode\MyGit\Workspace\SFSample\Application\Stateless\bin\Debug\netcoreapp2.1\win7-x64\Stateless.pdb
+D:\mycode\MyGit\Workspace\SFSample\Application\Stateless\obj\Debug\netcoreapp2.1\win7-x64\Stateless.dll
+D:\mycode\MyGit\Workspace\SFSample\Application\Stateless\obj\Debug\netcoreapp2.1\win7-x64\Stateless.pdb
+D:\New folder\SFSample\Stateless\bin\Debug\netcoreapp2.1\win7-x64\hostpolicy.dll
+D:\New folder\SFSample\Stateless\bin\Debug\netcoreapp2.1\win7-x64\hostfxr.dll
+D:\New folder\SFSample\Stateless\bin\Debug\netcoreapp2.1\win7-x64\Stateless.exe
+D:\New folder\SFSample\Stateless\bin\Debug\netcoreapp2.1\win7-x64\Stateless.deps.json
+D:\New folder\SFSample\Stateless\bin\Debug\netcoreapp2.1\win7-x64\Stateless.runtimeconfig.json
+D:\New folder\SFSample\Stateless\bin\Debug\netcoreapp2.1\win7-x64\Stateless.runtimeconfig.dev.json
+D:\New folder\SFSample\Stateless\bin\Debug\netcoreapp2.1\win7-x64\Stateless.dll
+D:\New folder\SFSample\Stateless\bin\Debug\netcoreapp2.1\win7-x64\Stateless.pdb
+D:\New folder\SFSample\Stateless\obj\Debug\netcoreapp2.1\win7-x64\Stateless.csproj.CoreCompileInputs.cache
+D:\New folder\SFSample\Stateless\obj\Debug\netcoreapp2.1\win7-x64\Stateless.AssemblyInfoInputs.cache
+D:\New folder\SFSample\Stateless\obj\Debug\netcoreapp2.1\win7-x64\Stateless.AssemblyInfo.cs
+D:\New folder\SFSample\Stateless\obj\Debug\netcoreapp2.1\win7-x64\Stateless.dll
+D:\New folder\SFSample\Stateless\obj\Debug\netcoreapp2.1\win7-x64\Stateless.pdb
